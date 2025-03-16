@@ -1,6 +1,6 @@
 # PocketChef
 
-Mobile application for Android to register, view and randomly select culinary recipes using Kotlin and XML
+Mobile Android application that registers, views and randomly selects culinary recipes using Kotlin and XML
 within the scope of the Mobile Device Programming course unit.
 
 Credits:
